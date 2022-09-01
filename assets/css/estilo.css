@@ -598,6 +598,11 @@
         font-size: 0.8rem;
     }
 
+    .card-services {
+        width: 80%;
+        margin-right: 0;
+    }
+
     .textContent {
         padding: 2rem 2rem;
     }
@@ -625,11 +630,6 @@
 @media (max-width: 391px) {
     .title-items {
         font-size: 0.85rem;
-    }
-
-    .card-services {
-        width: 80%;
-        margin-right: 0;
     }
 
     .infoContentMainImg {
